@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env.*
+
+# Docker
+*.pid
+*.log
+*.sock
+docker-compose.override.yml
+
+# Build output
+build/
+dist/
+*.egg-info/
+*.out
+*.o
+
+# Frontend build
+frontend/player/.next/
+frontend/player/.cache/
+frontend/player/build/
+frontend/player/dist/
+frontend/player/.vite/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FFmpeg temp files
+*.ts
+*.m3u8
+*.mp4
+*.tmp
+
