@@ -58,4 +58,4 @@ We are recruiting contributors who are interested in:
 
 📣 Join our Discord to discuss ideas, propose improvements, and help us build the future of unstoppable streaming.
 
-[Invite Link Coming Soon]
+https://discord.gg/gS7DCj68
